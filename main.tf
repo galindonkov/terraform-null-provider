@@ -1,5 +1,3 @@
-provider "null" {}
-
 resource "null_resource" "galindonkov" {
   triggers {
     G_number = "${timestamp()}"
