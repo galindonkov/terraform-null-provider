@@ -1,8 +1,8 @@
 ### Description
 
-A project for creating and using terraform null provided
+A project related to how to configure terraform null provided
 
-### Prerequisites prior to using the repo
+### Prerequisites
 
 - Terraform installation : [Installation process ](https://learn.hashicorp.com/terraform/getting-started/install.html)
 
